@@ -35,3 +35,4 @@ from .alexnet import *
 from .resnet import *
 from .vgg import *
 from .squeezenet import *
+from .tmp import *
